@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87636987212",
+    "project_id": "drop-off-3abed",
+    "storage_bucket": "drop-off-3abed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87636987212:android:36f8edb0589379324e13e9",
+        "android_client_info": {
+          "package_name": "com.farouk.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87636987212-5624g4ijjr6k9cir6pb8a542fufrbvg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7u3nPthv4558SmF96Ff2FBwzrfOGSzzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87636987212-5624g4ijjr6k9cir6pb8a542fufrbvg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
